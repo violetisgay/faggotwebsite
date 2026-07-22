@@ -21,17 +21,24 @@ body {
 
 }
 
-.footer-link {
+.footer-links {
     position: fixed;
     bottom: 15px;
     left: 50%;
     transform: translateX(-50%);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 6px;
+}
+
+.footer-link {
     color: #00FFFF;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 14px;
     text-decoration: underline;
-    opacity: 0.8;
-    transition: opacity 0.2s ease;
+    opacity: 1;
+    transition: opacity 0.0s ease;
 }
 
 .footer-link:hover {
