@@ -1,1 +1,1 @@
-did:plc:h5zrai5mdsus5qpg2lxrgsix
+did=did:plc:h5zrai5mdsus5qpg2lxrgsix
